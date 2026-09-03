@@ -1,2 +1,0 @@
-# im
-uznai-pravdu images
